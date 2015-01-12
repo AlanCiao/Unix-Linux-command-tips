@@ -3,3 +3,4 @@
 [把命令输出到多个日志文件](tee-multi-logs.md)  
 [显示文本文件内容的行号](display-text-file-line-num.md)  
 [以表格方式显示输出](column-t.md)  
+[打印当前目录下占磁盘空间最多的文件](du-hsx-sort-rh-head.md)  
