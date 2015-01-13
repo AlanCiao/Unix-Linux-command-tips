@@ -1,5 +1,5 @@
 #显示指定网络协议的所有连接
-使用“`ss -o state established '( dport = :protocol or sport = :protocol )'`”命令可以显示所有网络协议为`protocol`的链接。  
+使用“`ss -o state established '( dport = :protocol or sport = :protocol )'`”命令可以显示所有网络协议为`protocol`的连接。  
 举个例子：  
 
     [root@localhost nan]# ss -o state established '( dport = :ssh or sport = :ssh )'
