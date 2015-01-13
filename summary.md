@@ -13,4 +13,5 @@
 [计算每个用户打开的文件数](lsof-u-wc-l.md)  
 [显示指定网络协议的所有连接](ss-o-state-established.md)  
 [显示端口的状态及原因](nmap-reason-ip-address.md)  
+[ls命令显示以大写字母作为文件名开头的文件](ls-uppercase.md)  
 
