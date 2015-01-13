@@ -10,4 +10,5 @@
 [度量执行一个命令花费的时间等参数](time-f.md)  
 [ls命令只显示目录](ls-ltrF-grep-directory.md)  
 [根据文件修改时间查找文件](find-type-f-ctime-print.md)
+[计算每个用户打开的文件数](lsof-u-wc-l.md)  
 
