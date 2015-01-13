@@ -10,7 +10,7 @@ nix<font color=red>C</font>r<font color=red>a</font>f<font color=red>t</font>
 
 	[root@localhost command]# egrep --color -i 'Mon' ./scan.txt  
 输出为：  
-Nmap 6.46 scan initiated <font color=red>Mon</font> Jan 12 10:58:32 2015 as: nmap -PR -oN scan.txt 192.168.1.0/24
+Nmap 6.46 scan initiated <font color=red>Mon</font> Jan 12 10:58:32 2015 as: nmap -PR -oN scan.txt 192.168.1.0/24  
 Nmap done at <font color=red>Mon</font> Jan 12 10:58:32 2015 -- 256 IP addresses (0 hosts up) scanned in 0.04 seconds
 
 	
