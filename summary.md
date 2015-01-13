@@ -8,5 +8,6 @@
 [只查看今天的日志](grep-today-log.md)  
 [为搜索出来的字符串加上颜色](grep-color.md)  
 [度量执行一个命令花费的时间等参数](time-f.md)  
-[ls命令只显示目录](ls-ltrF-grep-directory.md)
+[ls命令只显示目录](ls-ltrF-grep-directory.md)  
+[根据文件修改时间查找文件](find-type-f-ctime-print.md)
 
