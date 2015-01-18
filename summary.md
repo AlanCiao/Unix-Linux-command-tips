@@ -20,4 +20,5 @@
 [打印进程打开的文件数目](find-all-fds-of-process.md)  
 [ls命令按文件size大小列举文件](ls-l-s-sort-k-5-n.md)  
 [显示系统的内存使用](ps-a-sort-rss.md)  
+[按目录size大小列举目录](du-block-size-sort-n.md)
 
