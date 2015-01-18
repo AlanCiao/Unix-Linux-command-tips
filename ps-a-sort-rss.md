@@ -2,7 +2,7 @@
 使用“`ps -A --sort -rss -o pid,comm,pmem,rss | less`”命令可以显示系统的内存使用。  
 举个例子：  
 
-    [root@home]$ ls -l -S *.d
+    [root@home]$ ps -A --sort -rss -o pid,comm,pmem,rss | less
      PID COMMAND         ％MEM  RSS
     1386 abrtd           0.1   4824
     1223 hald            0.0   3888
